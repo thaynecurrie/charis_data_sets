@@ -1,6 +1,6 @@
 # CHARIS Data Sets
 
-This repository hosts publicly available data for SCExAO/CHARIS.   The files are tarred and zipped sets of rectified CHARIS data cubes ready for processing with the CHARIS Data Processing Pipeline.
+This repository hosts publicly available data for SCExAO/CHARIS.   The files are sets of rectified CHARIS data cubes ready for processing with the CHARIS Data Processing Pipeline.
 
 **Data Sets**
 
