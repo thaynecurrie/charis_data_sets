@@ -1,0 +1,5 @@
+This is the repository for SCExAO/CHARIS AB Aurigae Data.
+
+Folders include ...
+- Flux-calibrated, registered data cubes for the January 6 2018 and October 2 2020 data sets [organized by date, target]
+- Final PSF subtracted data cubes and wavelength-collapsed images for the above dates
